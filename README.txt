@@ -1,7 +1,7 @@
 # 🎲 Sorteador de Amigo Secreto
 
 <div align="center">
-  <img src="assets/amigo-secreto.png" alt="Banner do Sorteador de Amigos" width="650px" />
+  <img src="https://challenge-amigo-secreto-flax-alpha.vercel.app/" alt="Banner do Sorteador de Amigos" width="650px" />
   <br><br>
 
   [![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
