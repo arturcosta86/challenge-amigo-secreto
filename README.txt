@@ -8,7 +8,7 @@
 
 ### ✨ Demonstração em Ação
 
-> Confira nossa aplicação funcionando em tempo real: [Jogo do Amigo Secreto] (https://challenge-amigo-secreto-flax-alpha.vercel.app/)
+> Confira nossa aplicação funcionando em tempo real: [Jogo do Amigo Secreto](https://challenge-amigo-secreto-flax-alpha.vercel.app/).
 
 ## 📱 Interface Responsiva
 
