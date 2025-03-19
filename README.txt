@@ -1,7 +1,7 @@
 # 🎲 Sorteador de Amigo Secreto
 
 <div align="center">
-  <img src="assets/amigo-secreto.png" alt="Banner do Sorteador de Amigos" width="650px" />
+  <img src="https://challenge-amigo-secreto-flax-alpha.vercel.app/" alt="Banner do Sorteador de Amigos" width="650px" />
   <br><br>
 
   [![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
@@ -30,11 +30,11 @@ O Sorteador de Amigo Secreto foi cuidadosamente desenvolvido para funcionar perf
 
 | Funcionalidade                 | Descrição                                                                                               |
 | :----------------------------- | :------------------------------------------------------------------------------------------------------ |
-| 🔄 Sorteio Instantâneo          | Com apenas um clique, selecione os pares de amigos secretos.                                            |
-| 🎯 Validação Inteligente       | Sistema que previne duplicatas e entradas vazias, garantindo a integridade do sorteio.                   |
-| ✏️ Gestão de Participantes    | Adicione e visualize facilmente a lista de participantes do sorteio.                                    |
-| 🎉 Resultado                   | Exibição clara dos pares sorteados.                                                                      |
-| ♿ Acessibilidade              | Desenvolvido com atenção à acessibilidade para garantir que todos possam utilizar.                       |
+| 🔄 Sorteio Instantâneo         | Com apenas um clique, selecione os pares de amigos secretos.                                            |
+| 🎯 Validação Inteligente       | Sistema que previne duplicatas e entradas vazias, garantindo a integridade do sorteio.                  |
+| ✏️ Gestão de Participantes     | Adicione e visualize facilmente a lista de participantes do sorteio.                                    |
+| 🎉 Resultado                   | Exibição clara dos pares sorteados.                                                                     |
+| ♿ Acessibilidade              | Desenvolvido com atenção à acessibilidade para garantir que todos possam utilizar.                      |
 
 ## 🛠️ Tecnologias Utilizadas
 
