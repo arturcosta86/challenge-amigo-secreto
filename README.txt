@@ -1,14 +1,6 @@
 # 🎲 Sorteador de Amigo Secreto
 
-<div align="center">
-  <img src="https://challenge-amigo-secreto-flax-alpha.vercel.app/" alt="Banner do Sorteador de Amigos" width="650px" />
-  <br><br>
-
-  [![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
-  [![GitHub stars](https://img.shields.io/github/stars/arturcosta86/challenge-amigo-secreto?style=for-the-badge&logo=github)](https://github.com/arturcosta86/challenge-amigo-secreto/stargazers)
-  [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-</div>
+[![Projeto Sorteo de Amigo Secreto](https://github.com/arturcosta86/challenge-amigo-secreto/blob/main/assets/AmigoSecreto.png)](https://challenge-amigo-secreto-flax-alpha.vercel.app/)
 
 ## 🌟 Sobre o Projeto
 
