@@ -1,6 +1,6 @@
 # 🎲 Sorteador de Amigo Secreto
 
-[![Projeto Sorteo de Amigo Secreto](https://github.com/arturcosta86/challenge-amigo-secreto/blob/main/assets/AmigoSecreto.png)](https://challenge-amigo-secreto-flax-alpha.vercel.app/)
+[Projeto Sorteo de Amigo Secreto](https://github.com/arturcosta86/challenge-amigo-secreto/blob/main/assets/AmigoSecreto.png)](https://challenge-amigo-secreto-flax-alpha.vercel.app/)
 
 ## 🌟 Sobre o Projeto
 
