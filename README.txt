@@ -1,6 +1,6 @@
 # 🎲 Sorteador de Amigo Secreto
 
-![Demonstração do Sorteador de Amigo Secreto](https://github.com/arturcosta86/challenge-amigo-secreto/blob/main/assets/AmigoSecreto.png)
+![Demonstração do Sorteador de Amigo Secreto](https://github.com/arturcosta86/challenge-amigo-secreto/blob/main/assets/AmigoSecreto.png).
 
 ## 🌟 Sobre o Projeto
 
